@@ -1,4 +1,6 @@
-# Remotion Video Template for TRAE IDE
+# trae-remotion-playground
+
+[简体中文](./README_CN.md) | English
 
 A comprehensive template and tool for generating Remotion videos using TRAE IDE. This project provides a reusable foundation for creating programmatic videos with React components, spring animations, and customizable themes.
 
@@ -50,9 +52,9 @@ Remotion is a React-based framework for creating videos programmatically. It lev
 ### Quick Start
 
 ```bash
-# Clone the template
-git clone https://github.com/your-username/remotion-video-template.git
-cd remotion-video-template
+# Clone the repository
+git clone https://github.com/francistse/trae-remotion-playground.git
+cd trae-remotion-playground
 
 # Install dependencies
 npm install
@@ -189,7 +191,7 @@ const opacity = interpolate(
 ### Project Structure
 
 ```
-remotion-video-template/
+trae-remotion-playground/
 ├── .claude/
 │   ├── commands/           # Claude Code commands
 │   │   ├── add-bug.md
@@ -252,7 +254,7 @@ We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the Repository**
    ```bash
-   git fork https://github.com/your-username/remotion-video-template.git
+   git fork https://github.com/francistse/trae-remotion-playground.git
    ```
 
 2. **Create a Feature Branch**
