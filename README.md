@@ -36,6 +36,7 @@ Remotion is a React-based framework for creating videos programmatically. It lev
 | Skill | Purpose |
 |-------|---------|
 | `remotion-video-creation` | Comprehensive guide for creating videos with Remotion |
+| `manage-github-repository` | Setup and maintain GitHub repositories |
 | `docs-demo` | Create interactive documentation demos |
 | `video-report` | Generate video reports |
 | `web-renderer-test` | Test web renderer functionality |
@@ -204,6 +205,7 @@ trae-remotion-playground/
 │       ├── add-cli-option/
 │       ├── add-expert/
 │       ├── docs-demo/
+│       ├── manage-github-repository/
 │       ├── pr/
 │       ├── remotion-video-creation/
 │       ├── video-report/
