@@ -1,0 +1,24 @@
+{
+  "name": "thank-you-video",
+  "version": "1.0.0",
+  "description": "Thank you video for xxx",
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion render ThankYou out/thank-you-video.mp4",
+    "render": "remotion render ThankYou out/thank-you-video.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@remotion/tailwind-v4": "^4.0.0",
+    "@remotion/transitions": "^4.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "remotion": "^4.0.0",
+    "tailwindcss": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
