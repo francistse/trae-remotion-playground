@@ -192,8 +192,8 @@ const opacity = interpolate(
 
 ```
 trae-remotion-playground/
-├── .claude/
-│   ├── commands/           # Claude Code 命令
+├── .trae/
+│   ├── commands/           # 开发命令
 │   │   ├── add-bug.md
 │   │   ├── checkout.md
 │   │   ├── formatting.md
@@ -205,16 +205,10 @@ trae-remotion-playground/
 │       ├── add-expert/
 │       ├── docs-demo/
 │       ├── pr/
+│       ├── remotion-video-creation/
 │       ├── video-report/
 │       ├── web-renderer-test/
 │       └── writing-docs/
-├── .trae/
-│   └── skills/
-│       └── remotion-video-creation/
-│           └── SKILL.md    # Remotion 综合指南
-├── docs/
-│   └── plans/
-│       └── thank-you-video.md
 ├── src/
 │   ├── components/
 │   │   ├── AnimatedText.tsx
@@ -231,12 +225,13 @@ trae-remotion-playground/
 │   ├── Composition.tsx
 │   ├── Root.tsx
 │   └── index.ts
-├── out/                    # 渲染的视频
-├── package.json
-├── tsconfig.json
-├── remotion.config.ts
+├── LICENSE
 ├── README.md
-└── README_CN.md
+├── README_CN.md
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+└── remotion.config.ts
 ```
 
 ## 🤝 贡献指南
